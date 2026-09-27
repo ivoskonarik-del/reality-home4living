@@ -1,0 +1,13 @@
+# Home4Living
+
+> Nabídky nemovitostí kanceláře Home4Living.
+
+- Web: https://home4living.cz/
+
+## Nabídky (6)
+- Prodej rodinného domu 193 m², pozemek 661 m² — Brno-venkov, 19 900 000 Kč: prodej-rodinneho-domu-193-m2-pozemek-661-m2-1117139020/
+- Prodej bytu 5+kk 140 m² — Mokrá Hora, 14 400 000 Kč: prodej-bytu-5-kk-140-m2-1189584972/
+- Prodej bytu 3+kk 76 m² — Dolní Věstonice, 8 950 000 Kč: prodej-bytu-3-kk-76-m2-1691463756/
+- Prodej rodinného domu 173 m², pozemek 354 m² — Boskovice, 7 250 000 Kč: prodej-rodinneho-domu-173-m2-pozemek-354-m2-1841115212/
+- Prodej rodinného domu 184 m², pozemek 404 m² — Brno-venkov, 15 900 000 Kč: prodej-rodinneho-domu-184-m2-pozemek-404-m2-255782988/
+- Prodej rodinného domu 184 m², pozemek 358 m² — Brno-venkov, 16 300 000 Kč: prodej-rodinneho-domu-184-m2-pozemek-358-m2-344903756/
